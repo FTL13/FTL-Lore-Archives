@@ -11,7 +11,6 @@
 ### C-2 Crewman
 
 * Detective
-* Atmospheric Technician
 * Roboticist
 * Chemist
 * Geneticist
@@ -27,15 +26,16 @@
 
 * Security Officer
 * Ship Engineer
+* Atmospheric Technician
 * Scientist
 * Medical Doctor
+* Munitions Officer
 
 ### O-1 Ensign
 
 * Bridge Officer
 * Warden
 * Quartermaster
-* Munitions Officer
 
 ### O-2 Lieutenant
 
